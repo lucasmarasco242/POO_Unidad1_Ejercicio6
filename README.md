@@ -42,4 +42,4 @@ La ejecución del programa muestra en la consola la siguiente información:
 
 ## Captura de pantalla
 
-![Captura de pantalla de la ejecución](img/captura-ejecucion.png)
+<img width="1256" height="237" alt="image" src="https://github.com/user-attachments/assets/f8846722-7880-4d3e-b60a-b7938a03f871" />
